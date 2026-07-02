@@ -1,4 +1,4 @@
-# MNIST Digit Classification with JAX & Flax
+# MNIST Digit Classification with Keras
 
 A high-performance convolutional neural network (CNN) pipeline built using Keras to train and evaluate on the MNIST handwritten digit dataset. 
 
