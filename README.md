@@ -1,6 +1,6 @@
 # MNIST Digit Classification with Keras
 
-A high-performance convolutional neural network (CNN) pipeline built using Keras to train and evaluate on the MNIST handwritten digit dataset. 
+A deep neural network pipeline built using Keras to train and evaluate on the MNIST handwritten digit dataset. 
 
 ## Project Overview
 This repository contains a clean, minimal, and simple implementation of digit classification.
